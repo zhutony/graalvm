@@ -145,8 +145,10 @@ graalpython            readelf
 </pre>
 
 
-# BASE IMAGE: https://hub.docker.com/r/oracle/graalvm-ce/dockerfile
+# BASE IMAGE: 
+
 ```bash
+# https://hub.docker.com/r/oracle/graalvm-ce/dockerfile
 # LICENSE UPL 1.0
 #
 # Copyright (c) 2015 Oracle and/or its affiliates. All rights reserved.
