@@ -1,0 +1,1 @@
+./graalvm.sh node $@
