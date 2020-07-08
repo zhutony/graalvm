@@ -146,7 +146,7 @@ graalpython            readelf
 
 
 # BASE IMAGE: https://hub.docker.com/r/oracle/graalvm-ce/dockerfile
-<code>
+```bash
 # LICENSE UPL 1.0
 #
 # Copyright (c) 2015 Oracle and/or its affiliates. All rights reserved.
@@ -200,4 +200,4 @@ RUN set -eux \
     && chmod +x /usr/local/bin/gu
 
 CMD java -version
-</code>
+```
